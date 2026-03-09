@@ -17,8 +17,7 @@ This project uses Natural Language Processing (NLP) and machine learning to clas
 
 ## Models Used
 - Logistic Regression
-- Naive Bayes
-- Support Vector Machine
+- DecisionTreeClassifier
 - Random Forest
 
 ## Evaluation Metrics
